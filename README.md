@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upnishadd&label=Profile%20views&color=0e75b6&style=flat" alt="upnishadd" /> </p>
 
 - 📫 How to reach me **upnishadd@gmail.com**
+- Check out my repositories!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
